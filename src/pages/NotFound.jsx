@@ -1,5 +1,5 @@
 import React from 'react';
-import error404 from '../assets/404.PNG'; // Mengimpor gambar 404 dari assets
+import error404 from '../assets/404.png'; // Mengimpor gambar 404 dari assets
 
 export default function NotFound() {
   return (
