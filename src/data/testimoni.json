@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Dewi",
+    "image": "dewi.png",
+    "review": "Kue dari MIZ'Cake selalu bikin hari spesialku makin berkesan. Rasa dan tampilannya juara!"
+  },
+  {
+    "id": 2,
+    "name": "Rizki",
+    "image": "riski.png",
+    "review": "Pelayanan cepat, kuenya lembut, dan rasa manisnya pas banget. Cocok untuk semua usia!"
+  },
+  {
+    "id": 3,
+    "name": "Sari",
+    "image": "sari.png",
+    "review": "Saya udah coba banyak toko kue, tapi cuma MIZ'Cake yang bikin saya balik terus!"
+  },
+  {
+    "id": 4,
+    "name": "Dudu",
+    "image": "dudu.png",
+    "review": "Kualitasnya konsisten dari dulu. Bahan segar, rasa mantap, dan selalu tepat waktu."
+  },
+  {
+    "id": 5,
+    "name": "Cika",
+    "image": "cika.png",
+    "review": "Desain kuenya estetik banget, cocok buat hampers atau hadiah ulang tahun. Aku suka!"
+  },
+  {
+    "id": 6,
+    "name": "Juri",
+    "image": "juri.png",
+    "review": "Pertama kali coba langsung jatuh cinta. Pokoknya wajib coba buat pecinta kue!"
+  }
+]

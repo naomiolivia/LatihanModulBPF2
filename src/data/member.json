@@ -1,0 +1,32 @@
+[
+  {
+    "member_id": "M001",
+    "nama": "Sinta Lestari",
+    "email": "sinta@sin.com",
+    "tipe_member": "silver"
+  },
+  {
+    "member_id": "M002",
+    "nama": "Budi Santoso",
+    "email": "budi@bud.com",
+    "tipe_member": "gold"
+  },
+  {
+    "member_id": "M003",
+    "nama": "Lina Agustina",
+    "email": "lina@lin.com",
+    "tipe_member": "platinum"
+  },
+  {
+    "member_id": "M004",
+    "nama": "Ahmad Rizal",
+    "email": "rizal@riz.com",
+    "tipe_member": "silver"
+  },
+  {
+    "member_id": "M005",
+    "nama": "Nina Widya",
+    "email": "nina@nin.com",
+    "tipe_member": "gold"
+  }
+]

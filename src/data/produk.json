@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Chocolate Cake",
+    "price": 25000,
+    "image": "cake.jpg",
+    "description": "Kue cake lembut dengan lapisan krim yang halus dan manis. Dihias dengan buah segar dan coklat parut, cocok untuk ulang tahun atau acara spesial lainnya."
+  },
+  {
+    "id": 2,
+    "name": "Cheese Delight",
+    "price": 30000,
+    "image": "cheese.jpg",
+    "description": "Kue keju spesial yang menggunakan keju premium berkualitas tinggi. Teksturnya lembut dan creamy, membuat setiap gigitan meleleh di mulut."
+  },
+  {
+    "id": 3,
+    "name": "Sweet Pastry",
+    "price": 27000,
+    "image": "pastry.jpg",
+    "description": "Pastry dengan isian coklat pekat dan kulit luar yang renyah. Dibuat dengan resep tradisional Eropa yang dijamin membuat ketagihan."
+  },
+  {
+    "id": 4,
+    "name": "Fruit Pie",
+    "price": 20000,
+    "image": "pie.jpg",
+    "description": "Pie mungil dengan isian krim vanilla dan topping buah segar seperti stroberi, kiwi, dan anggur. Cocok sebagai teman minum teh."
+  },
+  {
+    "id": 5,
+    "name": "Tiramisu Dream",
+    "price": 35000,
+    "image": "tiramisu.jpg",
+    "description": "Tiramisu klasik khas Italia dengan lapisan mascarpone, kopi espresso, dan taburan coklat bubuk. Rasa yang elegan dan mewah."
+  },
+  {
+    "id": 6,
+    "name": "Bento Cake",
+    "price": 32000,
+    "image": "bento.jpg",
+    "description": "Kue bento imut dengan desain karakter lucu. Cocok dijadikan hadiah ulang tahun atau kejutan spesial untuk orang tersayang."
+  }
+]
