@@ -17,6 +17,8 @@ const Register = React.lazy(() => import("./pages/Auth/Register"));
 const Forgot = React.lazy(() => import("./pages/Auth/Forgot"));
 const AddCustomer = React.lazy(() => import("./pages/AddCustomer"));
 const AddOrder = React.lazy(() => import("./pages/AddOrders"));
+const Products = React.lazy(() => import("./pages/Products"));
+const ProductDetail = React.lazy(() => import("./pages/ProductDetail"))
 
 // Tambahan lazy import untuk guest
 const GuestLayout = React.lazy(() => import("./layout/GuestLayout"));
@@ -37,6 +39,8 @@ function App() {
           <Route path="/add-customer" element={<AddCustomer />} />
           <Route path="/add-order" element={<AddOrder />} />
           <Route path="/user" element={<User />} />
+          <Route path="/products" element={<Products />} />
+          <Route path="/products/:id" element={<ProductDetail />} />
         </Route>
 
         {/* Route dengan AuthLayout */}
